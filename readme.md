@@ -72,16 +72,16 @@
 ## Tools I Use
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://cdn.iconscout.com/icon/free/png-512/free-linux-21-1174928.png?f=webp&w=256)
-![Python](https://cdn.iconscout.com/icon/free/png-512/free-python-21-1175116.png?f=webp&w=256)
-![MySQL](https://cdn.iconscout.com/icon/free/png-512/free-mysql-19-1174939.png?f=webp&w=256)
-![Nginx](https://cdn.iconscout.com/icon/free/png-512/free-nginx-4-1174926.png?f=webp&w=256)
-![CSS](https://cdn.iconscout.com/icon/free/png-512/free-css3-10-1175238.png?f=webp&w=256)
-![C](https://cdn.iconscout.com/icon/free/png-512/free-c-58-1175247.png?f=webp&w=256)
-![HTML](https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=256)
-![Ruby](https://cdn.iconscout.com/icon/free/png-512/free-ruby-47-1175102.png?f=webp&w=256)
-![Bash](https://cdn.iconscout.com/icon/premium/png-512-thumb/bash-shell-script-7843763-6370368.png?f=webp&w=256)
-![JavaScript](https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256)
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-linux-21-1174928.png" alt="Linux" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-python-21-1175116.png" alt="Python" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-mysql-19-1174939.png" alt="MySQL" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-nginx-4-1174926.png" alt="Nginx" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-css3-10-1175238.png" alt="CSS" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-c-58-1175247.png" alt="C" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-html5-41-1175209.png" alt="HTML" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-ruby-47-1175102.png" alt="Ruby" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/bash-shell-script-7843763-6370368.png" alt="Bash" width="32" height="32">
+<img src="https://cdn.iconscout.com/icon/free/png-128/free-javascript-24-1174950.png" alt="JavaScript" width="32" height="32">
 
 <br/>
 
