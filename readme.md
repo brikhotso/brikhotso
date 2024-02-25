@@ -53,7 +53,7 @@
  # About me
 
 <p>
- <img align="right" width="350" src="assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding gif" />
  ✌️ &emsp; I am a problem solver and innovator <br/><br/>
  ❤️ &emsp; I love coding and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: brenda.rikhotso@gmail.com<br/><br/>
