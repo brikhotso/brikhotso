@@ -54,11 +54,16 @@
 
 <p>
  <img align="right" width="350" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding gif" />
- ✌️ &emsp; I am a problem solver and innovator <br/><br/>
- ❤️ &emsp; I love coding and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: brenda.rikhotso@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/brikhotso/brikhotso/issues)
+ ✌️ &emsp; I am a passionate problem solver and innovator, dedicated to tackling complex challenges and devising creative solutions. Whether it's debugging intricate code or architecting robust systems, I thrive on pushing the boundaries of what's possible.<br/><br/>
+ ❤️ &emsp; I have a deep love for coding and a voracious appetite for learning new technologies, languages, and frameworks. I'm constantly expanding my skill set through hands-on projects, online courses, and community involvement.<br/><br/>
+ 🤝 &emsp; As a collaborative team player, I value open communication, constructive feedback, and shared success. I've had the privilege of working with diverse teams, where I've contributed my expertise and fostered a culture of collaboration and innovation.<br/><br/>
+ 🏆 &emsp; I'm results-oriented and strive for excellence in everything I do. I take pride in my track record of delivering tangible outcomes, whether it's optimizing processes, increasing efficiency, or enhancing user experiences.<br/><br/>
+ 🚀 &emsp; I'm adaptable to change and thrive in dynamic environments. I embrace new challenges with enthusiasm and see them as opportunities for growth and personal development.<br/><br/>
+ 🌱 &emsp; Outside of coding, you'll find me exploring my interests in AI, machine learning, and data science. I'm passionate about staying at the forefront of technological advancements and leveraging cutting-edge tools to drive innovation.<br/><br/>
+ 📧 &emsp; Feel free to reach out to me anytime at brenda.rikhotso@gmail.com. I'm always open to new opportunities, collaborations, or simply engaging in stimulating tech discussions.<br/><br/>
+ 💬 &emsp; Have a question or want to chat? Ask me anything [here](https://github.com/brikhotso/brikhotso/issues). I'm here to help and eager to connect with like-minded individuals in the tech community!
 </p>
+
 
 <br/>
 <br/>
