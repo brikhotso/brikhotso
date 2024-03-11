@@ -68,7 +68,7 @@
 
  ✉️ Feel free to reach out to me at brenda.rikhotso@gmail.com for any inquiries or collaborations.
 
- 💬 Have a question or just want to chat?Feel free to drop me a message at"https://twitter.com/br64911"
+ 💬 Have a question or just want to chat ?Feel free to drop me a message at https://twitter.com/br64911 .
 </p>
 
 
