@@ -55,13 +55,20 @@
 <p>
  <img align="right" width="350" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding gif" />
  👋 Hi there! I'm Brenda, a passionate problem solver and innovator in the tech world.
+
  💻 I love coding and I'm always hungry to learn new technologies, languages, and frameworks.
+
  🤝 I believe in the power of teamwork, open communication, and shared success.
+
  🏆 I'm results-oriented and take pride in delivering tangible outcomes.
+
  🚀 I thrive in dynamic environments and see challenges as opportunities for growth.
+
  🌱 Outside of coding, I'm into AI, machine learning, and data science.
+
  ✉️ Feel free to reach out to me at brenda.rikhotso@gmail.com for any inquiries or collaborations.
- 💬 Have a question or just want to chat?Feel free to drop me a message at "https://twitter.com/br64911
+
+ 💬 Have a question or just want to chat?Feel free to drop me a message at"https://twitter.com/br64911"
 </p>
 
 
