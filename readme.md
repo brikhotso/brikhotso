@@ -42,7 +42,8 @@
 </p>
 <br />
 <!-- About Section -->
- # About me
+
+# About me
 
 <p>
  <img align="right" width="350" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding gif" />
