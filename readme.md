@@ -4,18 +4,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
-
 <!--
 <p align="center">
   <a href="https://github.com/brikhotso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
  -->
-
 <a href="https://komarev.com/ghpvc/?username=brikhotso">
   <img align="right" src="https://komarev.com/ghpvc/?username=brikhotso&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
 
 [![waketime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -25,8 +21,6 @@
                 <b><a target="_blank" href="https://brikhotso.com">Brenda Rikhotso</a></b>
         </samp>
 </h3>
-
-
 <p align="center">
   <samp>
     <br>
@@ -35,7 +29,6 @@
     <br>
   </samp>
 </p>
-
 <p align="center">
  <a href="https://github.com/brikhotso" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="brikhotso" />
@@ -48,7 +41,6 @@
  </a>
 </p>
 <br />
-
 <!-- About Section -->
  # About me
 
