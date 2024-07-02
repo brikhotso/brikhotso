@@ -46,6 +46,7 @@
 # About me
 
 <p>
+ <a href="https://imgur.com/hzFIwl1"><img src="https://i.imgur.com/hzFIwl1.mp4" title="source: imgur.com" /></a>
  <img align="right" width="350" src="https://i.imgur.com/hzFIwl1.gif" alt="Coding gif" />
  👋 Hi there! I'm Brenda, a passionate problem solver and innovator in the tech world.
 
