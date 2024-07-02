@@ -46,7 +46,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="https://z-p3-scontent.fjnb11-1.fna.fbcdn.net/o1/v/t0/f1/m247/5854724225198630735_4189796573_01-07-2024-17-50-44.mp4?_nc_ht=z-p3-scontent.fjnb11-1.fna.fbcdn.net&_nc_cat=102&ccb=9-4&oh=00_AYCkGcRf40lfvNG8oKy0Y7BzHeIaUiDl9dQ1uWGMXPvlhA&oe=66852AD1&_nc_sid=5b3566&_nc_zt=28.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://imgur.com/hzFIwl1" alt="Coding gif" />
  👋 Hi there! I'm Brenda, a passionate problem solver and innovator in the tech world.
 
  💻 I love coding and I'm always hungry to learn new technologies, languages, and frameworks.
